@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/08/05 17:21:34.000.671,=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/17 22:16:57.000.789,=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/26 15:49:30.000.321,=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/26 20:05:42.754,=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/26 20:30:26.429,C:\Users\w7\Documents\GitHub\Delphi\Generics\TDictionary\TDictionary.View.Principal.pas=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/26 20:30:26.429,C:\Users\w7\Documents\GitHub\Delphi\Generics\TDictionary\TDictionary.View.Principal.dfm=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/08/26 20:30:38.202,C:\Users\w7\Documents\GitHub\Delphi\Generics\TDictionary\TDictionary.dproj=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
